@@ -157,7 +157,7 @@ footer {
     }
 
     header {
-        padding-top: 70px;
+        padding: 70px 16px 10px;
     }
 
     .avatar-corner {
@@ -178,10 +178,6 @@ footer {
 
     p {
         font-size: 16px;
-    }
-
-    header {
-        padding: 24px 16px 10px;
     }
 
     .nav-links {
